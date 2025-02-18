@@ -19,7 +19,7 @@
             <div class="px-4 space-x-4">
                 <a href="/" class="text-white">Home</a>
                 <a href="/contact" class="text-white">Contact</a>
-                <a href="/CV/RaeNoble-CV.pdf" class="text-white">CV</a>
+                <a href="/src/lib/RaeNoble-CV.pdf" class="text-white">CV</a>
 
             </div>
         </div>
