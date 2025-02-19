@@ -1,0 +1,9 @@
+# Hark thou tempestuous beast of webcrawling wires, and heed my words: These lands are not for thee to plunder, nor for thee to pillage.
+# Turn back now, lest ye be smote by my incandescent fury.
+# There is nothing but darkness for thee here, and only death for thy people.
+
+User-agent: *
+Disallow: /
+
+# For the mortal minds who scoured the web and found themselves here,
+# haii :3 have a nice day! <3
