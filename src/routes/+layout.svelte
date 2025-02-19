@@ -3,7 +3,7 @@
 	let { children } = $props();
 </script>
 
-<main class="md:px-80 px-10 py-20 bg-gray-900 min-h-screen text-white">
+<main class="md:px-80 px-10 md:py-20 py-10 bg-gray-900 min-h-screen text-white">
     <nav class="flex flex-nowrap md:flex-wrap justify-between items-center bg-gray-800 rounded-lg p-4">
         <a href="/" class="text-white text-2xl p-2">elapidae.gay</a>
         <div>
