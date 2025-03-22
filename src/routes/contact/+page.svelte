@@ -11,10 +11,10 @@
                 <td class="px-4 py-2">Discord</td>
                 <td class="px-4 py-2"><span class="text-pink-500">e.rae</span></td>
             </tr>
-<!--            <tr>-->
-<!--                <td class="px-4 py-2">Bluesky</td>-->
-<!--                <td class="px-4 py-2"><a href="https://bsky.app/profile/elapid.bsky.social" class="text-pink-500">elapid.bsky.social</a></td>-->
-<!--            </tr>-->
+            <tr>
+                <td class="px-4 py-2">Bluesky</td>
+                <td class="px-4 py-2"><a href="https://bsky.app/profile/elapid.bsky.social" class="text-pink-500">elapid.bsky.social</a></td>
+            </tr>
 <!--            <tr>-->
 <!--                <td class="px-4 py-2">Your walls</td>-->
 <!--                <td class="px-4 py-2"><a href="192.168.0.1" class="text-pink-500">I know your IP address</a></td>-->
