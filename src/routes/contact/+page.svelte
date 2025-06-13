@@ -4,16 +4,12 @@
     <table class="table-auto border-collapse border-0 m-2">
         <tbody>
             <tr>
-                <td class="px-4 py-2">Email</td>
-                <td class="px-4 py-2"><a href="mailto:raenoble42@gmail.com" class="text-pink-500">raenoble42@gmail.com</a></td>
-            </tr>
-            <tr>
                 <td class="px-4 py-2">Discord</td>
                 <td class="px-4 py-2"><span class="text-pink-500">e.rae</span></td>
             </tr>
             <tr>
                 <td class="px-4 py-2">Bluesky</td>
-                <td class="px-4 py-2"><a href="https://bsky.app/profile/elapid.bsky.social" class="text-pink-500">elapid.bsky.social</a></td>
+                <td class="px-4 py-2"><a href="https://bsky.app/profile/elapidae.gay" class="text-pink-500">elapidae.gay</a></td>
             </tr>
 <!--            <tr>-->
 <!--                <td class="px-4 py-2">Your walls</td>-->

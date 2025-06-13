@@ -13,6 +13,7 @@
         <nav class="flex justify-center items-center">
             <div class="px-4 space-x-4">
                 <a href="/" class="text-white">Home</a>
+                <a href="/buttons" class="text-white">Buttons</a>
                 <a href="/contact" class="text-white">Contact</a>
 <!--                <a href="/RaeNoble-CV.pdf" class="text-white">CV</a>-->
             </div>
