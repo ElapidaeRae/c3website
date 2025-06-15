@@ -7,7 +7,7 @@
     }
 
     let { src, alt, href }: ButtonProps = $props();
-    src = "/src/lib/images/" + src;
+    src = "/static/buttons/" + src;
 </script>
 
 
