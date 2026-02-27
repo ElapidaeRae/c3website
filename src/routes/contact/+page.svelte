@@ -19,6 +19,10 @@
                 <td class="px-4 py-2">GitHub</td>
                 <td class="px-4 py-2"><a href="https://github.com/ElapidaeRae" class="text-pink-500">ElapidaeRae</a></td>
             </tr>
+            <tr>
+                <td class="px-4 py-2">Email</td>
+                <td class="px-4 py-2">raenoble42 [at] gmail (dot) com</td>
+            </tr>
         </tbody>
     </table>
 
